@@ -1,0 +1,16 @@
+jira==3.0.1
+tempo-api-python-client==0.4.1
+todoist-python==8.1.1
+google-api-python-client==2.21.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+PyGithub==1.54.1
+appdirs==1.4.4
+python-dateutil==2.8.2
+Click==8.0.1
+PyInquirer==1.0.3
+pyyaml==5.4.1
+PrettyTable==2.2.0
+zenipy==0.1.5
+pygobject==3.40.1
+git+https://github.com/Parakoopa/python-rofi.git@master#egg=python-rofi
